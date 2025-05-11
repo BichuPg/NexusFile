@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Post One",
+    "content": "This is the first post",
+    "image": "https://example.com/image1.jpg",
+    "link": "https://example.com/view1"
+  },
+  {
+    "title": "Post Two",
+    "content": "This is the second post",
+    "image": "https://example.com/image2.jpg",
+    "link": "https://example.com/view2"
+  }
+]
