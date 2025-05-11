@@ -1,14 +1,20 @@
 [
   {
-    "title": "Post One",
-    "content": "This is the first post",
-    "image": "https://example.com/image1.jpg",
-    "link": "https://example.com/view1"
+    "title": "Naruto",
+    "image": "https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "synopsis": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "link": "https://www.youtube.com/watch?v=yeUpnIKt6k4"
   },
   {
-    "title": "Post Two",
-    "content": "This is the second post",
-    "image": "https://example.com/image2.jpg",
-    "link": "https://example.com/view2"
+    "title": "Attack on Titan",
+    "image": "https://image.tmdb.org/t/p/original/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+    "synopsis": "Humanity’s last survivors live behind massive walls to protect themselves from giant man-eating Titans. When the Titans breach the walls, the desperate survivors must fight back to stay alive.",
+    "link": "https://www.youtube.com/watch?v=luYOt2-c2TI"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "image": "https://image.tmdb.org/t/p/original/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+    "synopsis": "Tanjiro Kamado, a kindhearted boy, finds his family slaughtered by a demon and his sister Nezuko turned into a demon. He joins the Demon Slayer Corps to avenge his family and save Nezuko.",
+    "link": "https://www.youtube.com/watch?v=VQGCKyvzIM4"
   }
 ]
